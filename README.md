@@ -1,2 +1,2 @@
-This is a mental calculation game running on python.
-I love doing mental calculation, and this is why I wrote this game while I was starting to learn programming.
+This is a mental calculation game running on python, a side project while I was starting to learn programming in 2020.
+I love doing mental calculation.
